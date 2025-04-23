@@ -64,4 +64,4 @@ pytest tests/
 
 ---
 
-👨‍💻 Projet réalisé par Cabrel DHOSSOU – propulsé par GitHub Copilot ✨
+Projet réalisé par Cabrel DHOSSOU – propulsé par GitHub Copilot
